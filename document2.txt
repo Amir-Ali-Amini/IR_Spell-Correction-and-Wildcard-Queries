@@ -1,0 +1,1 @@
+Another example document with different content. Document indexing is important for retrieval.

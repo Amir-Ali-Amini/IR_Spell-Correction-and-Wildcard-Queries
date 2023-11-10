@@ -1,0 +1,1 @@
+Another example document to test Boolean search capabilities. This document contains relevant content.

@@ -1,0 +1,1 @@
+This is a simple example document. It contains several words. The words should be processed and indexed.
